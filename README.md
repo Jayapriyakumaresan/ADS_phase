@@ -50,4 +50,3 @@ The dataset consists of structured data containing multiple attributes, each pro
   Previous sales data for each product, enabling the analysis of growth or decline in sales over time.
 # Results
    After running the main.py script, the predicted sales results will be stored in an output file or displayed in the console, depending on the implementation. 
-in the requirements.txt file
